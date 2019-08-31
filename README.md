@@ -1,0 +1,2 @@
+# electron_beam_at_flat-simmetric_revers_of_magnetic_field
+Modeling of dynamics of electron beam with cyclotron rotation without initial longitudinal veliocity modulation at flat-symmetric reverse of magnetic field. Statial charge field not taken into account. z is direction of electron beam propagation. Reverse field represented as B_z = B_0/2(1+C_0 + (1-C_0)*cos(pi*z/l)) B_x = - pi*B_0*(1-C_0)*cos(pi*z/l)*pi*x/l, B_Y=0. Calculations provided for dimensionless coordinates Z = z/l etc. T = |e|*B_0*t/m_e (International System of Units)
