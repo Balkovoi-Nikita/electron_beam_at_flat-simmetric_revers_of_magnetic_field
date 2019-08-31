@@ -1,0 +1,2 @@
+-0.5	8.0	0.1	0.0		0
+C0	nc	w	Xc to Rc	Rho to Rc
